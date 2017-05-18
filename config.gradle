@@ -1,0 +1,38 @@
+ext {
+    android = [
+            compileSdkVersion        : 25,
+            buildToolsVersion        : "25.0.2",
+            applicationId            : "com.qiqiaoban.rommel.rokotlin",
+            minSdkVersion            : 19,
+            targetSdkVersion         : 25,
+            versionCode              : 1,
+            versionName              : "1.0.1",
+            testInstrumentationRunner: "android.support.test.runner.AndroidJUnitRunner"
+    ]
+
+    kotlin_version = '1.1.2-3'
+    support_version = '25.2.0'
+    junit_version = '4.12'
+    logger_version = '1.15'
+    anko_sdk_version = '0.8.2'
+    retrofit2_version = '2.1.0'
+    rxjava_version = '1.1.6'
+    rxandroid_version = '1.2.1'
+    okHttp_version = '3.4.1'
+
+    dependencies = [
+            logger            : "com.orhanobut:logger:$logger_version",
+            kotlin            : "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version",
+            junit             : "junit:junit:$junit_version",
+            support_v7        : "com.android.support:appcompat-v7:$support_version",
+            anko_sdk          : "org.jetbrains.anko:anko-sdk15:$anko_sdk_version",
+            anko_support      : "org.jetbrains.anko:anko-support-v4:$anko_sdk_version",
+            anko_appcompat    : "org.jetbrains.anko:anko-appcompat-v7:$anko_sdk_version",
+            retrofit2Retrofit : "com.squareup.retrofit2:retrofit:$retrofit2_version",
+            retrofit2Adapter  : "com.squareup.retrofit2:adapter-rxjava:$retrofit2_version",
+            retrofit2Converter: "com.squareup.retrofit2:converter-gson:$retrofit2_version",
+            rxjava            : "io.reactivex:rxjava:$rxjava_version",
+            rxandroid         : "io.reactivex:rxandroid:$rxandroid_version",
+            okHttp            : "com.squareup.okhttp3:okhttp:$okHttp_version"
+    ]
+}

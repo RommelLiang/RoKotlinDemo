@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lonze\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_a2b7179276052516c3bc341c55b313f8ea6c172e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lonze\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-appcompat-v7\0.8.2\ed7b4f73c336785997180849bedaf5d6a6dc5a0b\anko-appcompat-v7-0.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed7b4f73c336785997180849bedaf5d6a6dc5a0b">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\anko-appcompat-v7-0.8.2_251b9e2207a64a539effec8527c0cf8377723527.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RoKotlin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01afd9fdc318eb86bcfa039680cfe851f48f795c">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_0afc9f75188151de8d5331351e0048674fa9d837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RoKotlin\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_25766142de5e52d95cb32731c4519311a6f8b31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RoKotlin\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_e4b336370687621928dc4a7dc65c10e2ec6ae964.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RoKotlin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_53e28e440054fec4a4fa736e6f1759f740fd289c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RoKotlin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_3f9bc0efe6dfd54cfeca3b2fdc4d0307de9acc8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RoKotlin\app\build\intermediates\exploded-aar\com.orhanobut\logger\1.15\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a156b99fc7cc034308f942906b09d32754a4470">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\com.orhanobut-logger-1.15_40706ac8ef0d8661e9d7bd2ba8383678386297d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RoKotlin\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_d7fe394f6e4bacfd4b46f50f50f9df0d80e848f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_2d5d2da140f3a50e8356370a284f216f6194acde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lonze\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_03948142d88f24970f1b1447afc91b173a19051c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RoKotlin\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_8aef0d9fafe4244cfca89c75a8f252a29aac06e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RoKotlin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f94dc176b4d2110ddb17a46bf9075f52829ef0db">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\instant-run_a5947238e10ea49382bee1e42d433537175d6e78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lonze\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\okio-1.9.0_4228cdd00f0a3b17a13aa63d739cf013b007792f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lonze\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-sdk15\0.8.2\164386142a4b25f8c9a95e205e068b80866cd971\anko-sdk15-0.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="164386142a4b25f8c9a95e205e068b80866cd971">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\anko-sdk15-0.8.2_d719354d89dc96717fa1eb79ff11b3e81ce34566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lonze\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.2-3\552a40eb47669b78f0f194d526cb21b3aa1f8319\kotlin-stdlib-1.1.2-3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="552a40eb47669b78f0f194d526cb21b3aa1f8319">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.1.2-3_81b880256b9d5cc3b97a87a961f16afaf6a7a80b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lonze\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-support-v4\0.8.2\aae9fb16f206a2f3b0289687218bc00b202b03d\anko-support-v4-0.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0aae9fb16f206a2f3b0289687218bc00b202b03d">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\anko-support-v4-0.8.2_0681797be7b9d74487bc79a95b7ff444eef24e45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RoKotlin\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_7cd1d46b2849c3fcc3bc3ca2c6284835256212e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lonze\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.2-3\8360677e3d1b9bc9716efead9a4e740c428da2ff\kotlin-stdlib-jre7-1.1.2-3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8360677e3d1b9bc9716efead9a4e740c428da2ff">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jre7-1.1.2-3_f147fa46691f60f515b5b002225e5adf60ac4253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lonze\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_13b94c40e533ef7f98f4059d6f0261291ec01381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lonze\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-common\0.8.2\8974e9997afe8701e4207a315d4aa9bf7f05a8f4\anko-common-0.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8974e9997afe8701e4207a315d4aa9bf7f05a8f4">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\anko-common-0.8.2_2a78d7ad92c5c9f41c2d5e5b3791854350cf4f45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lonze\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\annotations-13.0_581955f101236f605d5339c55d95329dc283e587.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lonze\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\gson-2.7_a56ca86c8f9d77daf38115f6ad5b5c28c473c7bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RoKotlin\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_7860c4152633e7a81abab860d827c9e635d41aa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RoKotlin\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_9a1dc2354f3b51328d2c9a55e5db67db219d8a44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\RoKotlin\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_eb5020c32a679daba1b4c8e959d8465c36941925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lonze\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_fc3577031b749a350e3b4fd8c9d8ad0fe9b05a92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lonze\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="E:\RoKotlin\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_d5429b0576238edd3407faf25d0312eb43b45b51.jar" />
+    </item>
+
+</items>
